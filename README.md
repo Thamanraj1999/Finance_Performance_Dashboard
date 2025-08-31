@@ -82,7 +82,9 @@
 
 ### 4. Expand Geographically  
 - Replicate successful strategies from leading markets  
-- Adapt product mix to match local demand in new regions  
+- Adapt product mix to match local demand in new regions
+
+- 
 
 
 - <img width="1323" height="748" alt="image" src="https://github.com/user-attachments/assets/9a4c2b90-806a-4bb8-a8e2-5c24fea340bb" />
