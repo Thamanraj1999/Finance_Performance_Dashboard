@@ -1,5 +1,3 @@
-# Finance_Performance_Dashboard
-Our financial dashboard delivers an in-depth overview of company performance across different markets, products, and timeframes.
 # 📊 Business Performance Report
 
 ## 🔑 Key Highlights
@@ -8,6 +6,8 @@ Our financial dashboard delivers an in-depth overview of company performance acr
 - 🚀 **130% year-over-year growth** (2013 → 2014)  
 - 🌍 Operations across **five international markets**  
 - 🏷️ Product portfolio insights with **discount effectiveness tracking**  
+
+---
 
 ## 💰 Financial Highlights
 
@@ -21,6 +21,8 @@ Our financial dashboard delivers an in-depth overview of company performance acr
 - **Sales:** $43.2M → $99.37M  
 - **Profit:** $4.32M → $14.13M  
 - **Growth Rate:** 130%  
+
+---
 
 ## 🌍 Market Performance
 
@@ -48,6 +50,8 @@ Our financial dashboard delivers an in-depth overview of company performance acr
 - **Medium Discounts:** Stable across multiple product lines  
 - **High Discounts:** Mixed effectiveness by category  
 
+---
+
 ## 📦 Product Portfolio Analysis
 
 ### Top Performers
@@ -59,6 +63,8 @@ Our financial dashboard delivers an in-depth overview of company performance acr
 - **Low:** Highest revenue generator (led by Paseo)  
 - **Medium:** Balanced performance across products  
 - **High:** Necessary for select categories but less efficient  
+
+---
 
 ## 🧭 Strategic Recommendations
 
@@ -76,7 +82,8 @@ Our financial dashboard delivers an in-depth overview of company performance acr
 
 ### 4. Expand Geographically  
 - Replicate successful strategies from leading markets  
-- Adapt product mix to match local demand in new regions
+- Adapt product mix to match local demand in new regions  
+
 
 - <img width="1323" height="748" alt="image" src="https://github.com/user-attachments/assets/9a4c2b90-806a-4bb8-a8e2-5c24fea340bb" />
 
